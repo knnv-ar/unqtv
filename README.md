@@ -1,3 +1,28 @@
+# UNQtv: Netflix clone
+
+Tutorial: https://youtu.be/mqUN4N2q4qY
+
+GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
+
+---
+
+## Timestamps
+- 00:00 Intro [DONE]
+- 02:05 Environment setup [DONE]
+- 08:47 Auth Screen UI [DONE]
+- 34:58 NextAuth, Prisma, Mongo Setup
+- 01:20:39 Google and Github OAuth
+- 01:33:40 Protecting routes, Profiles screen
+- 02:00:22 Navbar Component
+- 02:27:13 Billboard Component, Random Movie Endpoint
+- 02:46:18 Movie List & Movie Card Components, Movies Endpoint, Cool hover effect
+- 03:06:58 Favorites / My List functionality
+- 03:29:19 Play Button, Video Player, Single Movie Endpoint
+- 03:46:24 Info Modal Component
+- 04:09:33 Vercel Deployment
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
