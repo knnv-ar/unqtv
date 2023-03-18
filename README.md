@@ -31,7 +31,9 @@ GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 
 ## Bash
 
-Crear un proyecto next.js:
+### Auth Screen UI
+
+Crear un proyecto next.js (correrlo desde powershell para elegir Yes o No desde los cursores):
 
 ```sh
 npx create-next-app --typescript
@@ -60,6 +62,33 @@ Instalar el paquete PrismaClient:
 ```sh
 npm install @prisma/client
 ```
+
+### NextAuth, Prisma, Mongo Setup
+
+Instalar el paquete Next Auth (para autenticación desde Next.js):
+
+```sh
+npm install next-auth
+```
+
+Instalar el paquete bcrypt:
+
+```sh
+npm install bcrypt
+```
+
+Instalar el paquete types de bcrypt:
+
+```sh
+npm i -D @types/bcrypt
+```
+
+Instalar el paquete axios:
+
+```sh
+npm i axios
+```
+
 ---
 
 ## MongoDB Atlas
