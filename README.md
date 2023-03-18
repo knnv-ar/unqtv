@@ -4,13 +4,19 @@ Tutorial: https://youtu.be/mqUN4N2q4qY
 
 GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 
+## Stacks
+
+- Next.js
+- Prisma
+- MongoDB
+
 ---
 
 ## Timestamps
 - 00:00 Intro [DONE]
 - 02:05 Environment setup [DONE]
 - 08:47 Auth Screen UI [DONE]
-- 34:58 NextAuth, Prisma, Mongo Setup
+- 34:58 NextAuth, Prisma, Mongo Setup [56:14]
 - 01:20:39 Google and Github OAuth
 - 01:33:40 Protecting routes, Profiles screen
 - 02:00:22 Navbar Component
@@ -20,6 +26,48 @@ GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 - 03:29:19 Play Button, Video Player, Single Movie Endpoint
 - 03:46:24 Info Modal Component
 - 04:09:33 Vercel Deployment
+
+---
+
+## Bash
+
+Crear un proyecto next.js:
+
+```sh
+npx create-next-app --typescript
+```
+
+Ejecutar el proyecto:
+
+```sh
+npm run dev
+```
+
+Instalar Prisma:
+
+```sh
+npm install -D prisma
+```
+
+Crear el esquema inicial de Prisma:
+
+```sh
+npx prisma init
+```
+
+Instalar el paquete PrismaClient:
+
+```sh
+npm install @prisma/client
+```
+---
+
+## MongoDB Atlas
+
+Cluster: unqtv-test
+
+username: raullacabanne
+password: wPxjkbaQvhLib979
 
 ---
 
