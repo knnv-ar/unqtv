@@ -17,8 +17,8 @@ GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 - 02:05 Environment setup [DONE]
 - 08:47 Auth Screen UI [DONE]
 - 34:58 NextAuth, Prisma, Mongo Setup [DONE]
-- 01:20:39 Google and Github OAuth [1:29:28]
-- 01:33:40 Protecting routes, Profiles screen
+- 01:20:39 Google and Github OAuth [DONE]
+- 01:33:40 Protecting routes, Profiles screen [01:33:40]
 - 02:00:22 Navbar Component
 - 02:27:13 Billboard Component, Random Movie Endpoint
 - 02:46:18 Movie List & Movie Card Components, Movies Endpoint, Cool hover effect
@@ -102,6 +102,32 @@ Instalar el paquete Prisma-adapter:
 ```sh
 npm install @next-auth/prisma-adapter
 ```
+
+### Protecting routes, Profiles screen
+
+Instalar swr:
+
+```sh
+npm install swr
+```
+
+### Navbar Component
+### Billboard Component, Random Movie Endpoint
+### Movie List & Movie Card Components, Movies Endpoint, Cool hover effect
+### Favorites / My List functionality
+### Play Button, Video Player, Single Movie Endpoint
+### Info Modal Component
+### Vercel Deployment
+
+
+## Posible errors
+
+### Server selection timeout: No available servers.
+
+- Dinamic IP configuration: [1:46:46]
+
+    - MongoDB cluster > Security > Network Access > + Add IP Address > Allow Access from Anywhere > Confirm
+
 ---
 
 ## MongoDB Atlas
