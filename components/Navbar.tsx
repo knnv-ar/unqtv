@@ -62,10 +62,12 @@ const Navbar = () => {
           "
         >
           <NavbarItem label="Home"/>
-          <NavbarItem label="Series"/>
-          <NavbarItem label="Films"/>
-          <NavbarItem label="New & Popular"/>
           <NavbarItem label="Mi lista"/>
+          <NavbarItem label="Q.Noticias"/>
+          <NavbarItem label="Institucional"/>
+          <NavbarItem label="Conferencias y Jornadas"/>
+          <NavbarItem label="Nuevo y Popular"/>
+          <NavbarItem label="En vivo"/>
           <NavbarItem label="Browse by languages"/>
         </div>
         <div onClick={toggleMobileMenu} className="lg:hidden flex flex-row items-center gap-2 ml-8 cursor-pointer relative">
