@@ -1,4 +1,4 @@
-import { signOut } from 'react-auth/react';
+import { signOut } from 'next-auth/react';
 import React from 'react';
 
 interface AccountMenuProps {
