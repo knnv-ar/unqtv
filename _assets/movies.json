@@ -12,23 +12,23 @@
     "description": "En este programa repasaremos momentos destacados de las proyecciones 'Operacion chocolate' y 'La forma exacta de las islas'`, el ciclo televisivo 'Oid La Historia' y la muestra fotográfica 'Malvinas'",
     "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
     "thumbnailUrl": "http://uhdtv.io/wp-content/uploads/2020/10/Sintel-3.jpg",
-    "genre": "Adventure",
-    "duration": "7 minutes"
+    "genre": "Q.Noticias",
+    "duration": "7 minutos"
   },
   {
-    "title": "Tears of Steel",
-    "description": "In an apocalyptic future, a group of soldiers and scientists takes refuge in Amsterdam to try to stop an army of robots that threatens the planet.",
+    "title": "Por un regreso cuidado: retorno a las actividades",
+    "description": "Por un regreso cuidado. El regreso a las actividades presenciales está cada vez más cerca. En la Universidad estamos trabajando y preparando el retorno a la presencialidad, cuidada, respetando los protocolos aprobados, no solo para cuidarnos a nosotros sino también para cuidar a nuestros seres queridos y a toda la comunidad de la UNQ ❤️. Estamos muy cerca de volver.",
     "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
     "thumbnailUrl": "https://mango.blender.org/wp-content/uploads/2013/05/01_thom_celia_bridge.jpg",
-    "genre": "Action",
-    "duration": "12 minutes"
+    "genre": "Institucional",
+    "duration": "1 minuto"
   },
   {
-    "title": "Elephant's Dream",
-    "description": "Friends Proog and Emo journey inside the folds of a seemingly infinite Machine, exploring the dark and twisted complex of wires, gears, and cogs, until a moment of conflict negates all their assumptions.",
+    "title": "Inscripciones Segundo Cuatrimestre de 2021",
+    "description": "Ya llega el segundo cuatrimestre PRESENCIAL del 2021. Te podrás inscribir del 2 al 9 de agosto. Recordá que en las carreras presenciales hay cuatro tipos de cursos presenciales con campus, semipresenciales, virtuales asincrónicos, y virtuales con instancias sincrónicas. Tené en cuenta que las materias presenciales y semipresenciales podrían regresar a las aulas en los días y horarios propuestos en la oferta académica y, claro, de acuerdo al Protocolo de Regreso. Revisá bien los días y horarios al inscribirte para poder luego asistir a las clases. Estas listx para volver? Mejor, vacunate.",
     "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "thumbnailUrl": "https://download.blender.org/ED/cover.jpg",
-    "genre": "Sci-Fi",
-    "duration": "15 minutes"
+    "genre": "Institucional",
+    "duration": "1 minuto"
   }
 ]
