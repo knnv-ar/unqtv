@@ -19,8 +19,8 @@ GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 - 34:58 NextAuth, Prisma, Mongo Setup [DONE]
 - 01:20:39 Google and Github OAuth [DONE]
 - 01:33:40 Protecting routes, Profiles screen [DONE]
-- 02:00:22 Navbar Component [02:13:07]
-- 02:27:13 Billboard Component, Random Movie Endpoint
+- 02:00:22 Navbar Component [DONE]
+- 02:27:13 Billboard Component, Random Movie Endpoint [02:37:53]
 - 02:46:18 Movie List & Movie Card Components, Movies Endpoint, Cool hover effect
 - 03:06:58 Favorites / My List functionality
 - 03:29:19 Play Button, Video Player, Single Movie Endpoint
