@@ -113,10 +113,27 @@ npm install swr
 
 ### Navbar Component
 
-
+none
 
 ### Billboard Component, Random Movie Endpoint
+
+none
+
 ### Movie List & Movie Card Components, Movies Endpoint, Cool hover effect
+
+Instalar Lodash:
+
+```sh
+npm install lodash
+```
+
+Instalar Types de Lodash:
+
+```sh
+npm install -D @types/lodash
+```
+
+
 ### Favorites / My List functionality
 ### Play Button, Video Player, Single Movie Endpoint
 ### Info Modal Component
