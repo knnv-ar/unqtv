@@ -20,10 +20,10 @@ GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 - 01:20:39 Google and Github OAuth [DONE]
 - 01:33:40 Protecting routes, Profiles screen [DONE]
 - 02:00:22 Navbar Component [DONE]
-- 02:27:13 Billboard Component, Random Movie Endpoint [02:37:53]
-- 02:46:18 Movie List & Movie Card Components, Movies Endpoint, Cool hover effect
-- 03:06:58 Favorites / My List functionality
-- 03:29:19 Play Button, Video Player, Single Movie Endpoint
+- 02:27:13 Billboard Component, Random Movie Endpoint [DONE]
+- 02:46:18 Movie List & Movie Card Components, Movies Endpoint, Cool hover effect [DONE]
+- 03:06:58 Favorites / My List functionality [DONE]
+- 03:29:19 Play Button, Video Player, Single Movie Endpoint [3:34:38]
 - 03:46:24 Info Modal Component
 - 04:09:33 Vercel Deployment
 
