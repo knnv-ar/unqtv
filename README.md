@@ -24,7 +24,7 @@ GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 - 02:46:18 Movie List & Movie Card Components, Movies Endpoint, Cool hover effect [DONE]
 - 03:06:58 Favorites / My List functionality [DONE]
 - 03:29:19 Play Button, Video Player, Single Movie Endpoint [3:34:38]
-- 03:46:24 Info Modal Component
+- 03:46:24 Info Modal Component [4:03:25]
 - 04:09:33 Vercel Deployment
 
 ---
@@ -133,10 +133,23 @@ Instalar Types de Lodash:
 npm install -D @types/lodash
 ```
 
-
 ### Favorites / My List functionality
+
+none
+
 ### Play Button, Video Player, Single Movie Endpoint
+
+none
+
 ### Info Modal Component
+
+Instalar zustand (global state managment library):
+
+```sh
+npm install zustand
+```
+
+
 ### Vercel Deployment
 
 
