@@ -10,6 +10,21 @@ GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 - Prisma
 - MongoDB
 
+## Digital Assets
+
+https://res.cloudinary.com/depkguybv/video/upload/v1680288613/qnoticias-0299_seuma8.mp4
+
+https://res.cloudinary.com/depkguybv/video/upload/v1680288689/qnoticias-0300_bofii3.mp4
+
+https://res.cloudinary.com/depkguybv/video/upload/v1680288705/institucional-0080_gicbmf.mp4
+
+https://res.cloudinary.com/depkguybv/video/upload/v1680288716/institucional-0100_e2yeye.mp4
+
+https://res.cloudinary.com/depkguybv/video/upload/v1680288724/conferenciasyjornadas-0001_tozxp0.mp4
+
+https://res.cloudinary.com/depkguybv/video/upload/v1680288735/conferenciasyjornadas-0050_ddvyvm.mp4
+
+
 ---
 
 ## Timestamps
