@@ -12,15 +12,39 @@ GitHub: https://github.com/AntonioErdeljac/next-netflix-tutorial
 
 ## Digital Assets
 
+**qnoticias-0299**
+
+https://res.cloudinary.com/depkguybv/image/upload/v1680316888/unqtv/kvkmmcwgrtmtzzxrufih.jpg
+
 https://res.cloudinary.com/depkguybv/video/upload/v1680288613/qnoticias-0299_seuma8.mp4
+
+**qnoticias-0300**
+
+https://res.cloudinary.com/depkguybv/image/upload/v1680316888/unqtv/tuzdja9pkqwipmbhv3ys.jpg
 
 https://res.cloudinary.com/depkguybv/video/upload/v1680288689/qnoticias-0300_bofii3.mp4
 
+**institucional-0080**
+
+https://res.cloudinary.com/depkguybv/image/upload/v1680316888/unqtv/db9esqfjtafl6bdksdn5.jpg
+
 https://res.cloudinary.com/depkguybv/video/upload/v1680288705/institucional-0080_gicbmf.mp4
+
+**institucional-0100**
+
+https://res.cloudinary.com/depkguybv/image/upload/v1680316888/unqtv/jzpqjjldyow3jzgivptp.jpg
 
 https://res.cloudinary.com/depkguybv/video/upload/v1680288716/institucional-0100_e2yeye.mp4
 
+**conferenciasyjornadas-0001**
+
+https://res.cloudinary.com/depkguybv/image/upload/v1680316888/unqtv/nh3gtvb6mfdonwn1cnfl.jpg
+
 https://res.cloudinary.com/depkguybv/video/upload/v1680288724/conferenciasyjornadas-0001_tozxp0.mp4
+
+**conferenciasyjornadas-0050**
+
+https://res.cloudinary.com/depkguybv/image/upload/v1680316888/unqtv/o29qejeoi9wdamhf5d4p.jpg
 
 https://res.cloudinary.com/depkguybv/video/upload/v1680288735/conferenciasyjornadas-0050_ddvyvm.mp4
 
