@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useState} from "react";
+import React, { useCallback, useEffect, useState} from 'react';
 import { AiOutlineClose } from "react-icons/ai";
 
 import PlayButton from "./PlayButton";
@@ -37,7 +37,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ visible, onClose }) => {
       className="
         z-50
         transition
-        dutarion-300
+        duration-300
         bg-black
         bg-opacity-80
         flex
@@ -99,7 +99,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ visible, onClose }) => {
                 items-center
                 justify-center
               "
-              onClick={() => {handleClose}}>
+              onClick={handleClose}>
 
                 <AiOutlineClose className="text-white" size={20}/>
 
@@ -122,7 +122,7 @@ const InfoModal: React.FC<InfoModalProps> = ({ visible, onClose }) => {
           </div>
 
           <div className="px-12 py-8">
-            <p className="text-green-400 font-semiblod text-lg">
+            <p className="text-green-400 font-semibold text-lg">
               Nuevo
             </p>
             <p className="text-white text-lg">
