@@ -70,19 +70,109 @@ https://res.cloudinary.com/depkguybv/video/upload/v1680288735/conferenciasyjorna
 
 ## Bash
 
-### Auth Screen UI
+## Environment setup
 
-Crear un proyecto next.js (correrlo desde powershell para elegir Yes o No desde los cursores):
+1. Crear un proyecto next.js (correrlo desde powershell para elegir Yes o No desde los cursores):
 
 ```sh
 npx create-next-app --typescript
 ```
 
-Ejecutar el proyecto:
+```
+? What is your project named? unqtv
+
+? Would you like to use ESLint with this project? [YES]
+
+? Would you like to use 'src/' directory with this project? [NO]
+
+? Would you like to use experimental `app/` directory with this project? [NO]
+
+? What import alias would you like configured? [press ENTER]
+```
+
+2. Abrir la carpeta creada y ejecutar el proyecto con:
 
 ```sh
 npm run dev
 ```
+
+3.  Borrar el archivo `pages/_document.tsx`
+
+4. Abrir el archivo `pages/index.tsx` y dejar el contenido siguiente:
+
+```ts
+export default function Home() {
+    return (
+        <>
+            <h1>UNQtv</h1>
+        </>
+    );
+}
+```
+
+5. Borrar el archivo `styles/Home.module.css`
+
+6. Instalar Tailwind CSS:
+
+```sh
+npm install -D tailwindcss postcss autoprefixer
+```
+
+7. Inicializar Tailwind CSS:
+
+```sh
+npx install tailwindcss init -p
+```
+
+8. Abrir el archivo `/tailwind.config.js` y dejar el contenido siguiente:
+
+```js
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx}",
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+ 
+    // Or if using `src` directory:
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+
+9. Abrir el archivo `styles/globals.css` y dejar el contenido siguiente:
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-zinc-900 h-full overflow-x-hidden;
+}
+
+#__next {
+  @apply h-full;
+}
+
+html {
+  @apply h-full;
+}
+```
+
+10. Volver a ejecutar Next:
+
+```sh
+npm run dev
+```
+
+### Auth Screen UI
+
+TODO: SEGUIR CON VIDEO 10:20
 
 Instalar Prisma:
 
@@ -249,3 +339,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---
+
+ https://discord.gg/SPEBvAz4Vd
+
+ ---
+
