@@ -27,7 +27,7 @@ export default async function handler(req:NextApiRequest, res:NextApiResponse) {
         },
         data: {
           favoriteIds: {
-            push: movieId,
+            push: movieId
           }
         }
       });
@@ -35,7 +35,7 @@ export default async function handler(req:NextApiRequest, res:NextApiResponse) {
       return res.status(200).json(user);
     }
 
-    if(req.method === 'DELETE') {
+    if (req.method === 'DELETE') {
       const { currentUser } = await serverAuth(req);
 
       const { movieId } = req.body;
@@ -52,7 +52,7 @@ export default async function handler(req:NextApiRequest, res:NextApiResponse) {
 
       const updatedFavoriteIds = without(currentUser.favoriteIds, movieId);
       
-      const updatedUser = await prismadb.movie.update({
+      const updatedUser = await prismadb.user.update({
         where: {
           email: currentUser.email || '',
         },

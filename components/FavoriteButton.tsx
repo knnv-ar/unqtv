@@ -6,7 +6,7 @@ import useCurrentUser from '@/hooks/useCurrentUser';
 import useFavorites from '@/hooks/useFavorites';
 
 interface FavoriteButtonProps {
-  movieId: string
+  movieId: string;
 }
 
 const FavoriteButton: React.FC<FavoriteButtonProps> = ({ movieId }) => {
@@ -32,13 +32,13 @@ const FavoriteButton: React.FC<FavoriteButtonProps> = ({ movieId }) => {
 
     mutate({
       ...currentUser,
-      favoriteIds: updatedFavoriteIds,
+      favoriteIds: updatedFavoriteIds
     });
 
     mutateFavorites();
   }, [movieId, isFavorite, currentUser, mutate, mutateFavorites]);
 
-  const Icon = isFavorite ? AiOutlineCheck: AiOutlinePlus;
+  const Icon = isFavorite ? AiOutlineCheck : AiOutlinePlus;
 
   return (
     <div
@@ -57,12 +57,12 @@ const FavoriteButton: React.FC<FavoriteButtonProps> = ({ movieId }) => {
         justify-center
         items-center
         transition
-        hover:border-neutral-300
+        hover:border-neutral-300 
       "
       >
         <Icon className='text-white' size={25}/>
     </div>
-  );
-};
+  )
+}
 
 export default FavoriteButton;
