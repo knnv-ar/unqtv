@@ -27,10 +27,10 @@ const PlayButton: React.FC<PlayButtonProps> = ( { movieId }) => {
         transition
       "
     >
-      <BsFillPlayFill size={25} className="mr-1"/>
+      <BsFillPlayFill size={25} className="w-4 md:w-7 text-black mr-1"/>
       Ver
     </button>
-  )
+  );
 };
 
 export default PlayButton;

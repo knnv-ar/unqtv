@@ -18,7 +18,7 @@ const MovieCard: React.FC<MovieCardProps> = ({
 
   return (
     <div className="group bg-zinc-900 col-span relative h-[12vw]">
-      <img
+      <img 
         className="
           cursor-pointer
           object-cover
@@ -88,13 +88,13 @@ const MovieCard: React.FC<MovieCardProps> = ({
                   bg-white
                   rounded-full
                   flex
-                  justicy-center
+                  justify-center
                   items-center
                   transition
-                  hover_bg-neutral-300
+                  hover:bg-neutral-300
                 "
                 onClick={() => router.push(`/watch/${data?.id}`)}>
-                  <BsFillPlayFill size={30}/>
+                  <BsFillPlayFill className="text-black w-4 lg:w-6" size={25}/>
               </div>
               <FavoriteButton movieId={data?.id}/> 
               <div
